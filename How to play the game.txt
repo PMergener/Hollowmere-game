@@ -1,0 +1,3 @@
+How to play
+
+Download the files into a folder, and run the HTML file.
